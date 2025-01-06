@@ -1,0 +1,2 @@
+# SwiftVim
+My Nvim config 
