@@ -3,6 +3,8 @@
 Welcome to **SwiftVim** 🛠️, a Neovim configuration tailored for developers looking for an IDE-like experience with simplicity, speed, and powerful features. This README covers all the customizations, plugins, and settings implemented in this configuration.
 
 ---
+![image](https://github.com/user-attachments/assets/8d6bd726-e616-4ad8-83f0-a7a31915cb5e)
+
 
 ## Features ✨
 
